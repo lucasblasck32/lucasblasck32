@@ -1,5 +1,10 @@
 # 💫 About Me:
-Comprometimento, determinação, proatividade e eficiência esses são alguns dos termos que definem quem sou no ambiente profissional.<br><br>Sempre dedicado a novos desafios e focado em me desenvolver como profissional.
+
+👨‍💻 - Trabalho com projetos sociais;
+🔭 - Estudando HTML, CSS5, JavaScript
+📩 - Contate-me no email: lucasgabrielsilva1607@gmail.com
+
+Comprometimento, determinação, proatividade e eficiência esses são alguns dos adjetivos<br> que me definem em um ambiente profissional.<br><br>Sempre dedicado a novos desafios e focado em me desenvolver como profissional.
 
 
 ## 🌐 Socials:
